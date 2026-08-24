@@ -1,10 +1,10 @@
-# Tow Ops Dashboard
+# Haulr — Fleet Command
 
-A real-time fleet management dashboard built for tow truck operations — live vehicle tracking, dispatch coordination, and fleet analytics in one interface.
+A real-time fleet management dashboard for tow truck operations — live vehicle tracking, dispatch coordination, and fleet analytics in one interface.
 
 ## About
 
-Tow Ops Dashboard is a full-stack fleet operations tool designed around how tow companies actually work: tracking trucks in real time, managing an incoming dispatch queue, and keeping tabs on driver status at a glance. Built as a proof-of-concept for a real towing business, it demonstrates a complete data flow from a live backend API to an interactive frontend map.
+Haulr is a full-stack fleet operations tool built around how tow companies actually work: tracking trucks in real time, managing an incoming dispatch queue, and keeping tabs on driver status at a glance. Built as a proof-of-concept for a real towing business, it demonstrates a complete data flow from a live backend API to an interactive frontend map — with truck positions for en-route and returning units simulated server-side every 5 seconds.
 
 ## Features
 
